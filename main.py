@@ -1,7 +1,7 @@
 # 生成的css
 import sys
 
-css = "body{margin:0 auto;} a{color:#333333;text-decoration:none;} a:hover{color:#2979ff}"
+css = "body{margin:0 auto;} a{color:#333333;text-decoration:none;} a:hover{color:#2979ff;}"
 
 # 单位 px、rpx
 unit = 'px'
