@@ -4,7 +4,7 @@ import sys
 css = "body{margin:0 auto;} a{color:#333333;text-decoration:none;} a:hover{color:#2979ff;}"
 
 # 单位 px、rpx
-unit = 'px'
+unit = 'rem'
 if len(sys.argv) == 2 and sys.argv[1]:
     unit = sys.argv[1]
 
